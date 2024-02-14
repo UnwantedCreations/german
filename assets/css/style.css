@@ -284,13 +284,13 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #004289;
+  color: #581953;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #581953;
+  color: #c7202e;
 }
 
 .navbar-mobile .dropdown ul {
