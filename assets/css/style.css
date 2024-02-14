@@ -766,6 +766,11 @@ section {
   color: #cce5ff;
 }
 
+#why-us .purecounter::after {
+  content: "+";
+  margin-right: 2px; /* Adjust the spacing between the "+" sign and the number if necessary */
+}
+
 /* Portfolio Section
 --------------------------------*/
 #portfolio {
